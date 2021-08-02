@@ -1,7 +1,9 @@
-### Oba! Tudo joia? 👋
+### Hello, there! 👋
 
 - 🔭 Atualmente procuro por um estágio
 - 🌱 Estudando C#, MySQL, SQL Server e Linux
+- 💻 IDE's as quais uso: Rider e DBeaver
+- Meus SO's de produção: openSUSE Tumbleweed e Solus
 
  <div>
   <a href="https://github.com/JGMelon22">
@@ -19,5 +21,5 @@
  ##
  
 <div>
- <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-vasconcellos-mel%C3%A3o-722aa01a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-vasconcellos-mel%C3%A3o-722aa01a4/" height="30" width="40 target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
