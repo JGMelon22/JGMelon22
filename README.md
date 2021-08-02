@@ -22,6 +22,6 @@
  
 <div>
  <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-vasconcellos-mel%C3%A3o-722aa01a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://plus.diolinux.com.br/u/jg22/summary" target="_blank"><img height="40" width="40" src="https://plus.diolinux.com.br/uploads/default/original/3X/5/9/595326cf4665bcca793101b55587e468f865a0c7.png" target="_blank"></a> 
+ <a href="https://plus.diolinux.com.br/u/jg22/summary" target="_blank"><img height="40" width="60" src="https://plus.diolinux.com.br/uploads/default/original/3X/5/9/595326cf4665bcca793101b55587e468f865a0c7.png" target="_blank"></a> 
 </div>
 </div>
