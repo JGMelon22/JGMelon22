@@ -2,8 +2,7 @@
 
 - 🔭 Atualmente procuro por um estágio
 - 🌱 Estudando C#, MySQL, SQL Server e Linux
-- 💻 IDE's as quais uso: Rider e DBeaver
-- Meus SO's de produção: openSUSE Tumbleweed e Solus
+- 💻 Meus SO's de produção: [openSUSE Tumbleweed](https://www.opensuse.org/) e [Solus](https://getsol.us/home/)
 
  <div>
   <a href="https://github.com/JGMelon22">
