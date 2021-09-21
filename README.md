@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou no quarto período de ciência da computação e procuro por um estágio
 - 🌱 Estudando C#, MySQL, SQL Server e Linux
-- 💻 Meus SO's de produção: [openSUSE Tumbleweed](https://www.opensuse.org/)
+- 💻 Meus SO de produção: [openSUSE Tumbleweed](https://www.opensuse.org/)
 
  <div>
   <a href="https://github.com/JGMelon22">
