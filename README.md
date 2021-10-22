@@ -1,6 +1,6 @@
 ### Hello, there! 👋
 
-- 🌱 Studying C#, MySQL, SQL Server and Linux
+- 🌱 Currently I am studying C#, MySQL, SQL Server and Linux
 - 💻 My main OS: [Manjaro](https://manjaro.org/)
 
  <div>
