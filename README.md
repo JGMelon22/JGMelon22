@@ -1,8 +1,7 @@
 ### Hello, there! 👋
 
-- 🔭 Atualmente estou no quarto período de ciência da computação e procuro por um estágio
-- 🌱 Estudando C#, MySQL, SQL Server e Linux
-- 💻 Meu SO de produção: [Manjaro](https://manjaro.org/)
+- 🌱 Studying C#, MySQL, SQL Server and Linux
+- 💻 My main OS: [Manjaro](https://manjaro.org/)
 
  <div>
   <a href="https://github.com/JGMelon22">
