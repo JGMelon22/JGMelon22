@@ -1,7 +1,7 @@
 ### Hello, there! 👋
 
 - 📚 Currently I am studying C#, MySQL, SQL Server and Linux
-- 💻 My main OS: (Pop!_OS)[https://pop.system76.com/] 
+- 💻 My main OS: [Pop!_OS](https://pop.system76.com/) 
 - 🌱 Feel free to visit my [Microsoft Learn profile](https://docs.microsoft.com/en-us/users/jgstudent-4936/)
 
  <div>
