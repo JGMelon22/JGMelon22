@@ -1,7 +1,7 @@
 ### Hello, there! 👋
 
 - 📚 Currently I am studying C#, MySQL, SQL Server and Linux
-- 💻 My main OS: Windows 10 🪟 
+- 💻 My main OS: SDA
 - 🌱 Feel free to visit my [Microsoft Learn profile](https://docs.microsoft.com/en-us/users/jgstudent-4936/)
 
  <div>
