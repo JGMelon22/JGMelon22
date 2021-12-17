@@ -17,8 +17,6 @@
  <img align="center" alt="JG-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linux/linux-original.svg">
   <img align="center" alt="JG-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 </div>
- ##
- 
 <div>
  <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-vasconcellos-mel%C3%A3o-722aa01a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <img align="right" alt="JG-Tux" src="https://media.tenor.com/images/ccb959edb41a02737755b2209ef7d97a/tenor.gif">
