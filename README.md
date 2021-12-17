@@ -1,7 +1,7 @@
 ### Hello, there! 👋
 
-- 📚 Currently I am studying C#, MySQL, SQL Server and Linux
-- 💻 My main OS: [Pop!_OS](https://pop.system76.com/) 
+- 📚 Currently I am studying C#, MySQL, SQL Server, JavaScript and Linux
+- 💻 My main OS: [Manjaro](https://manjaro.org/) 
 - 🌱 Feel free to visit my [Microsoft Learn profile](https://docs.microsoft.com/en-us/users/jgstudent-4936/)
 
  <div>
@@ -15,8 +15,8 @@
  <img align="center" alt="JG-dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/dotnetcore/dotnetcore-original.svg">
  <img align="center" alt="JG-microsoftsqlserver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
  <img align="center" alt="JG-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linux/linux-original.svg">
+  <img align="center" alt="JG-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 </div>
-
  ##
  
 <div>
