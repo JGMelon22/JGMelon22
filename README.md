@@ -1,6 +1,6 @@
 ### Hello, there! 👋
 
-- 📚 Currently I am studying C#, MySQL, SQL Server, Windows Server, Linux and JavaScript
+- 📚 Currently I am studying: MySQL, C#, SQL Server, Windows Server, Linux and JavaScript
 - 💻 My main OS: [Manjaro](https://manjaro.org/) 
 - 🌱 Feel free to visit my [Microsoft Learn profile](https://docs.microsoft.com/en-us/users/jgstudent-4936/)
 
