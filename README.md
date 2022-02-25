@@ -1,7 +1,7 @@
 ### Hello, there! 👋
 
 - 📚 Currently I am studying: MySQL, C#, SQL Server, Windows Server, Linux and JavaScript
-- 💻 My main OS: [Windows 10](https://www.microsoft.com/pt-br/software-download/windows10) and [Pop!_OS](https://pop.system76.com/)
+- 💻 My main OS: [Pop!_OS 20.04](https://pop.system76.com/), [Manjaro](https://manjaro.org/download/) and [Windows Server 2019](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019)
 - 🌱 Feel free to visit my [Microsoft Learn profile](https://docs.microsoft.com/en-us/users/jgstudent-4936/)
 
  <div>
