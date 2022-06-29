@@ -1,6 +1,6 @@
 ### Hello, there! 👋
 
-- 📚 Currently I am studying: `MySQL`, [`C#`](https://github.com/JGMelon22/CSharp-BasicsAndOOP), [`SQL Server`](https://github.com/JGMelon22/Revisao-SQL-Server), `Windows Server`, `Linux` and [`JavaScript`](https://github.com/JGMelon22/Estudos-JavaScript/tree/main/Codigos)
+- 📚 Currently I am studying: `MySQL`, [`C#`](https://github.com/JGMelon22/CSharp-BasicsAndOOP), [`SQL Server`](https://github.com/JGMelon22/Revisao-SQL-Server), `Windows Server`, `Linux` and [`JavaScript`](https://github.com/JGMelon22/Learning_JavaScript)
    - 🛠️ **Using the following tools**: `Rider`, `Visual Studio Code`, `Azure Data Studio`, [`DBeaver`](https://dbeaver.io/) and `Docker Client`
 - 💻 My main OSs are: [Pop!_OS 22.04](https://pop.system76.com/), [Manjaro](https://manjaro.org/download/) and [Windows Server 2019](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019)
 - 🌱 Feel free to visit my: <a href="https://docs.microsoft.com/en-us/users/jgstudent-4936/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white" width="105" height="20" target="_blank"></a>
