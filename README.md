@@ -1,8 +1,7 @@
 # 💫 About Me:
 # Hello, there! My name is João Gabriel</br>
-I am a passionate back-end developer from Brazil pursuing my Computer Science degree.</br>
-
-I've started my journey on CS due to high influence from my father, a Senior back-end developer, whose tough me the major base I do have now days. Currently I'm focus on improving my knowledge in ASP .NET Core, SQL and Linux (all hail Linus Torvalds, our lord and savior)
+I am a passionate back-end developer from Brazil pursuing my IT Bachelor's degree.</br>
+Focused on improving my knowledge in ASP .NET Core, SQL and Linux
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jgvasconcellosmelao) 
