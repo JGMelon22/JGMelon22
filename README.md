@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## Hello, there! My name is João Gabriel</br>
-Back-end developer from Brazil focused on building scalable, maintainable, and efficient systems. Passionate about solving complex problems and continuously improving the architecture and performance of the software I build.
+Back-end developer from Brazil focused on building scalable, maintainable, and efficient systems. Passionate about architecture, performance, and solving challenging problems. Always learning and improving to deliver real value through clean and reliable code.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jgvasconcellosmelao)
@@ -11,6 +11,8 @@ Back-end developer from Brazil focused on building scalable, maintainable, and e
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### Front-end
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
