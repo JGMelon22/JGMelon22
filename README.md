@@ -1,6 +1,6 @@
-# 💫 About Me:
+# About Me:
 ## Hello, there! My name is João Gabriel</br>
-Back-end developer from Brazil focused on building scalable, maintainable, and efficient systems. Passionate about architecture, performance, and solving challenging problems. Always learning and improving to deliver real value through clean and reliable code.
+Backend developer from Brazil, focused on building scalable, maintainable, and efficient systems. Passionate about architecture, performance, and solving hard problems. Always learning to deliver real value through clean, reliable code.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jgvasconcellosmelao)
@@ -11,7 +11,6 @@ Back-end developer from Brazil focused on building scalable, maintainable, and e
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ### Front-end
@@ -21,6 +20,7 @@ Back-end developer from Brazil focused on building scalable, maintainable, and e
 
 ### Databases
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Infra and OS
@@ -34,14 +34,10 @@ Back-end developer from Brazil focused on building scalable, maintainable, and e
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Zed](https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 ## 📊 GitHub Stats:
 <p align="flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=JGMelon22&theme=nord&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGMelon22&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats-extended.vercel.app/api?username=JGMelon22&theme=nord&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=JGMelon22&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
